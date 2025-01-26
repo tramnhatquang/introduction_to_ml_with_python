@@ -2,7 +2,7 @@ from IPython.display import set_matplotlib_formats, display
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import mglearn
+import Users.tramnhatquang.introduction_to_ml_with_python.mglearn as mglearn
 from cycler import cycler
 
 set_matplotlib_formats('pdf', 'png')
